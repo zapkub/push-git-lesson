@@ -1,0 +1,17 @@
+{
+    "name": "push-git-lesson",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "url": "https://github.com/zapkub/push-git-lesson",
+        "type": "git"
+    },
+    "author": "Rungsikorn Rungsikavarnich <rungsikorn@me.com>",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^15.4.2"
+    },
+    "scripts": {
+        "start": "node ./server"
+    }
+}
